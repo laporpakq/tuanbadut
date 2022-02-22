@@ -8,11 +8,11 @@ $pkg install python python2 vim figlet curl
 $pkg install php
 $pip2 install lolcat
 $pkg install git
-$git clone https://github.com/TUANB4DUT/TOOLSINSTALLERv3
+$git clone https://github.com/laporpakq/tuanbadut
 
 ```MENJALANKANNYA```
 
-$cd TOOLSINSTALLERv3
+
 $chmod +x TUANB4DUT.sh
 $sh TUANB4DUT.sh
 
